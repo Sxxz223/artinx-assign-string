@@ -1,5 +1,7 @@
 # Assignment 2 · 自定义 String 类
 <password>
+
+
 本仓库是本次作业的**起始框架**：文档、工程结构与自动测试已经就绪，
 实现部分（`include/my_string.h` 的私有成员 + `src/my_string.cpp`）留给你来完成。
 
