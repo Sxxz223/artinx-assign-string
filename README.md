@@ -1,5 +1,5 @@
 # Assignment 2 · 自定义 String 类
-<password>
+password
 
 
 本仓库是本次作业的**起始框架**：文档、工程结构与自动测试已经就绪，
